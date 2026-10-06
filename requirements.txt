@@ -1,0 +1,22 @@
+# Install PyTorch 1.7.1 + torchvision 0.8.2 for CUDA 11.0 separately.
+# See README.md. The packages below are the Python dependencies.
+yacs==0.1.8
+Cython
+ninja
+matplotlib
+tqdm
+opencv-python
+tensorboardX
+pycocotools
+numpy
+Pillow
+PyYAML
+fvcore
+iopath
+tabulate
+termcolor
+portalocker
+librosa
+scipy
+soundfile
+pandas
